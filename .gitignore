@@ -118,4 +118,4 @@ dist
 # misc files
 .DS_Store
 session/
-token/
+tokens/
