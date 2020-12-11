@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^2.1.2"
+  }
+}
